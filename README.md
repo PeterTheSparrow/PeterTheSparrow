@@ -2,7 +2,7 @@
 
 ### 🤩 About Me 
 
-A naive undergraduate student from @SJTU-SE, expected 2025.
+A naive undergraduate student from @SJTU-SE.
 - Code for fun. 
 - Currently learning full-stack development, system design, etc.(maybe later will dive deeper into system software, e.x. db sys/parallel and distributed sys)
 - Here in my repos, you can find my notes and projects.
